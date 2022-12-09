@@ -17,7 +17,7 @@ const personalMovieDB = {
 
     },
     genres: [],
-    privat: false
+    privat: true
 };
 
 function saveMyFilms() {
